@@ -1,5 +1,7 @@
 manifestVersion: 1
 id: matterhub-matter-hub
+# El icono es opcional; sustituye por una URL propia o déjalo y ponlo luego.
+icon: https://raw.githubusercontent.com/BorjaRodMar/matterhub-umbrel-store/main/matterhub-matter-hub/icon.svg
 category: networking
 name: Matter Hub
 version: "latest"
